@@ -80,10 +80,45 @@ button:hover span {
   display: block;
 }
 
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
 .red {
   background-color: red;
 }
 
 .orange {
   background-color: orange;
+}
+
+.purple {
+  background-color: purple;
+}
+
+
+
+.yellow {
+  background-color: yellow;
+}
+
+.brown {
+  background-color: brown;
+}
+
+.darkgreen {
+  background-color: darkgreen;
+}
+
+.black {
+  background-color: black;
+}
+
+.limegreen {
+  background-color: limegreen;
 }
